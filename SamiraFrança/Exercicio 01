@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+void  soma(){
+
+    int valor, numero;
+    int contador, soma=0;
+    float med=0;
+
+    printf("Por gentileza, digite quantos numeros deseja calcular: ");
+        scanf("%d", numero);
+        for(contador=0; contador<=numero; contador++){
+            
+        }
+}
+
